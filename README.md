@@ -15,10 +15,10 @@
   <a href="mailto:azeem29245@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-azeem29245%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/azeem-flutter">
+    <img src="https://img.shields.io/badge/GitHub-azeem-flutter-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=02569B" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=azeem-flutter&style=for-the-badge&color=02569B" alt="Profile views" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -119,16 +119,16 @@ A feature-rich trip planning app with **AI-assisted packing lists** and survival
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azeem-flutter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-flutter&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azeem-flutter&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=02569B&line=00BCD4" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-flutter&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=02569B&line=00BCD4" width="97%" />
 </div>
 
 ---
