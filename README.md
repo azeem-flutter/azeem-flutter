@@ -59,7 +59,6 @@ I'm a passionate **Flutter developer** and final-year **Software Engineering** s
 ![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=flutter&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -174,6 +173,6 @@ A feature-rich trip planning app with **AI-assisted packing lists** and survival
 </div>
 
 <p align="center">
-  <i>✨ Open to Flutter internships, junior developer roles, and freelance mobile projects.</i><br/>
+  <i>✨ Open to junior developer roles, and freelance mobile projects.</i><br/>
   <b>Let's build something great together 🚀</b>
 </p>
