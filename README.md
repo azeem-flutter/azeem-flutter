@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=02569B&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Muhammad+Azeem+👋;Flutter+Developer+%26+Mobile+Craftsman+📱;Building+Real-Time+Apps+with+Firebase+🔥;GetX+%7C+REST+APIs+%7C+Clean+Architecture+✨;Open+to+Flutter+Internships+%26+Freelance+💼" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=02569B&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Muhammad+Azeem+%F0%9F%91%8B;Flutter+Developer+%26+Mobile+Craftsman+%F0%9F%93%B1;Building+Real-Time+Apps+with+Firebase+%F0%9F%94%A5;GetX+%7C+REST+APIs+%7C+Clean+Architecture+%E2%9C%A8;Open+to+Flutter+Internships+%26+Freelance+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-azeem29245%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/azeem-flutter">
-    <img src="https://img.shields.io/badge/GitHub-azeem-flutter-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-azeem--flutter-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=azeem-flutter&style=for-the-badge&color=02569B" alt="Profile views" />
 </p>
@@ -33,6 +33,7 @@ I'm a passionate **Flutter developer** and final-year **Software Engineering** s
 
 - 🔭 Currently building **Flutter projects** & expanding my open-source presence
 - 🌱 Deepening skills in **GetX**, **Firebase**, and **REST API integration**
+- 🐍 Experienced in **FastAPI & Python** for backend and ML workflows
 - 💼 Open to **Flutter internships**, junior developer roles & freelance projects
 - 📍 Based in **Faisalabad, Pakistan**
 - ⚡ Fun fact: Independently shipped **3 full-stack Flutter apps** covering auth, real-time data & cloud media
@@ -53,12 +54,21 @@ I'm a passionate **Flutter developer** and final-year **Software Engineering** s
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8B00FF?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=flutter&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### IDEs & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -116,6 +126,16 @@ A feature-rich trip planning app with **AI-assisted packing lists** and survival
 
 ---
 
+## 🏆 Achievements & Activities
+
+- 🔌 Designed and consumed **multiple REST APIs** using **FastAPI/Python** for mobile and backend integrations.
+- ⚙️ Implemented state management solutions using **GetX** and **Riverpod** to build scalable Flutter applications.
+- 🤖 Applied Python libraries including **NumPy, Pandas, Matplotlib, and Scikit-learn** in academic and personal AI/ML projects.
+- 📦 Independently shipped **3 full-stack Flutter apps** covering authentication, real-time data, and cloud media management.
+- 🔀 Regularly use **Git & GitHub** for version control, project management, and collaboration workflows.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -140,7 +160,9 @@ A feature-rich trip planning app with **AI-assisted packing lists** and survival
 | Platform | Details |
 |:---:|:---:|
 | 📧 **Email** | [azeem29245@gmail.com](mailto:azeem29245@gmail.com) |
+| 📱 **Phone** | +92 324-7618292 |
 | 💼 **LinkedIn** | [muhammad-azeem-9a593332a](https://www.linkedin.com/in/muhammad-azeem-9a593332a) |
+| 💻 **GitHub** | [azeem-flutter](https://github.com/azeem-flutter) |
 | 📍 **Location** | Faisalabad, Pakistan |
 
 </div>
